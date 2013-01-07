@@ -1,7 +1,7 @@
 PhysicalDojo
 ============
 
-Code Base for the Physical Version of Dojo which interacts with the iPad game
+Code Base for the Physical Version of Dojo which interacts with the iPad game. Built during a short hackathon. Physical NFC cards post their data to the internet.
 
 #Instructions for getting Started
 1. Download Arduino IDE, following the instructions at http://arduino.cc/en/Main/Software
